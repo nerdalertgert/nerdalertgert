@@ -2,7 +2,7 @@
 - 👀 I’m interested in mobile app devleopment and AI.
 - 🌱 I’m currently learning python, html, css and swift.
 - 💞️ I’m open to projects to collaborate on.
-- 📫 How to reach me at github.com/nerdalertgert
+- 📫 Reach me at github.com/nerdalertgert
 
 <!---
 nerdalertgert/nerdalertgert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
